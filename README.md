@@ -51,7 +51,7 @@ Data folder has two files:
 * BiVariate Analysis
 * Recommendations
 
-### Please refer to the PPT file in the Data folder for complete details. And this was done as part of EDA CaseStudy in PG Course of IIIT-B.
+#### Please refer to the PPT file in the Data folder for complete details. And this was done as part of EDA CaseStudy in PG Course of IIIT-B.
 
 ## Contributors:
 * Sameer Gadicherla 
